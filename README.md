@@ -36,7 +36,7 @@
   
   É incrível ver como tudo evoluiu. Todos os comandos que no início eram complicados e difíceis de se fazer, hoje já consigo realizar com uma certa naturalidade. E é mais incrível ainda saber que foi esse curso que me fez começar a estudar programação e me apaixonar por essa profissão.
 
-  Deixo aqui meus sinceros agredicimentos ao professor Gustavo Guanabara por ter ministrado esse curso que ficou marcado na minha vida e que com certeza ajudou e ajuda muitas pessoas que estão começando sua carreira com programação ou relembrando os conceitos.
+  Deixo aqui meus sinceros agradecimentos ao professor Gustavo Guanabara por ter ministrado esse curso que ficou marcado na minha vida e que com certeza ajudou e ajuda muitas pessoas que estão começando sua carreira com programação ou relembrando os conceitos.
 
 </p>
 
