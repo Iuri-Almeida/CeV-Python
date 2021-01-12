@@ -1,0 +1,11 @@
+print("======== Desafio 004 ========")
+n = input("Digite algo: ")
+
+print("O tipo primitivo é {}.".format(type(n)))
+print("É do tipo numérico? {}".format(n.isnumeric()))
+print("É do tipo alfabético? {}".format(n.isalpha()))
+print("É do tipo alfanumérico? {}".format(n.isalnum()))
+print("Está em letras maiúsculas? {}".format(n.isupper()))
+print("Está em letras minúsculas? {}".format(n.islower()))
+print("Pode ser escrito na tela? {}".format(n.isprintable()))
+print("É um espaço? {}".format(n.isspace()))
