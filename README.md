@@ -94,6 +94,6 @@ Alguns locais de onde me baseei para realizar o projeto:
 
 <div align = "center">
 
-<a href = "#top">Voltar ai início</a>
+<a href = "#top">Voltar ao início</a>
 
 </div>
